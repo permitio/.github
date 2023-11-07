@@ -6,4 +6,5 @@
       <img src="https://github.com/permitio/.github/assets/4082578/b5a88437-0830-4026-a373-348fb254ef10" height="128">
     </picture>
   </a>
+  This repository includes markdown files for the `permitio` GitHub home page - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 </div>
