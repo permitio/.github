@@ -40,6 +40,12 @@ The easiest way to deploy and run AWS' Cedar - a language for defining permissio
 
 A fast and durable bidirectional JSON RPC channel over Websockets. The easiest way to create a live async channel between two nodes via Python (or other clients).
 
+Our Microservice for Authorization (PDP)
+---------
+[The PDP (Policy Decision Point)](https://github.com/permitio/PDP) is Permit's microservice based on (OPA (or Cedar) and OPAL).
+
+The PDP exposes a [OpenAPI spec](https://docs.permit.io/api/pdp-api-reference) at `localhost:7000` which works with Permit SDK, wrapping and agumenting calls to the embedded policy agent.
+
 Our SDKs 
 ---------
 
