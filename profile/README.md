@@ -36,9 +36,13 @@ Easily sync open-policy rules to your feature toggles
 
 The easiest way to deploy and run AWS' Cedar - a language for defining permissions as policies.
 
-### <img src="https://github.com/permitio/.github/assets/4082578/3d425ec4-56f3-4e84-9fca-1f16650302f1" width="24" />  [FastAPI Websocket Pubsub](https://io.permit.io/gh-fastapi-rpc)
+### <img src="https://github.com/permitio/.github/assets/4082578/3d425ec4-56f3-4e84-9fca-1f16650302f1" width="24" />  [FastAPI Websocket RPC](https://io.permit.io/gh-fastapi-rpc)
 
 A fast and durable bidirectional JSON RPC channel over Websockets. The easiest way to create a live async channel between two nodes via Python (or other clients).
+
+### <img src="https://github.com/permitio/.github/assets/4082578/3d425ec4-56f3-4e84-9fca-1f16650302f1" width="24" />  [FastAPI Websocket Pub/Sub](https://github.com/permitio/fastapi_websocket_pubsub)
+
+A fast and durable Pub/Sub channel over Websockets. The easiest way to create a live publish / subscribe multi-cast over the web.
 
 Our Microservice for Authorization (PDP)
 ---------
