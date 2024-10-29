@@ -36,6 +36,10 @@ Easily sync open-policy rules to your feature toggles
 
 The easiest way to deploy and run AWS' Cedar - a language for defining permissions as policies.
 
+### <img src="https://github.com/permitio/.github/assets/4082578/3d425ec4-56f3-4e84-9fca-1f16650302f1" width="24" />  [Permit CLI](https://io.permit.io/permit-cli-github)
+
+One CLI to Role them all. A unfied command-line tool to interact and manage Permit, OPA, CedarAgent, openFGA, and more ...
+
 ### <img src="https://github.com/permitio/.github/assets/4082578/3d425ec4-56f3-4e84-9fca-1f16650302f1" width="24" />  [FastAPI Websocket RPC](https://io.permit.io/gh-fastapi-rpc)
 
 A fast and durable bidirectional JSON RPC channel over Websockets. The easiest way to create a live async channel between two nodes via Python (or other clients).
